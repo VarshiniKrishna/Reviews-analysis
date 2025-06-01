@@ -25,6 +25,4 @@ Starbucks receives thousands of reviews daily. The goal was to:
 ##  Visuals
 Bar charts and word clouds showing sentiment distribution, top keywords from positive and negative reviews, and confidence score breakdowns.
 
-##  How to Run
-1. Clone the repo ```bash
-git clone https://github.com/yourusername/Sentiment-Analysis-Project.git
+
